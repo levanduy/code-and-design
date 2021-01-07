@@ -1,5 +1,5 @@
 
-# Agiletech code and design documentation  
+# code and design documentation  
 *Implemented in Javascript ES6, facilitating new techonogies like Babel, React, Flowtype*
 
 ## 📗 Table of Contents
