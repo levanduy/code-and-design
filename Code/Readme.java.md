@@ -381,7 +381,7 @@ void createTempFile(String name){
  
 ###  Avoid side effects
  
-If a function does anything except accept a value and then return a value or multiple values, it will have side effects, it may be
+If a function does anything but accepts a value and then returns one or more values, it will have side effects. It may be
 Write to a file, modify a global variable, or accidentally connect all your money to a stranger.
  
 Now you do need side effects occasionally in your program. Just like the code above, you may need to write to a file. What you need to do is set
